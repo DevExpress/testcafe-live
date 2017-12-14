@@ -50,8 +50,8 @@ Run tests with `testcafe-live` in the same way as you do with `testcafe`:
 testcafe-live chrome tests/
 ```
 
-Run `testcafe-live` with the same arguments you use to run tests with `testcafe`. It opens the required browsers, run tests
-there, shows the reports and waits for your futher actions.
+Use [standard `testcafe` arguments](https://devexpress.github.io/testcafe/documentation/using-testcafe/command-line-interface.html) to run tests with `testcafe-live`. It opens the required browsers, run tests
+there, shows the reports and waits for your further actions.
 
 TestCafe Live watches files that you pass as the `src` argument and files that are required in them. Once you make changes in files and save them, TestCafe Live immediately reruns your tests.
 
