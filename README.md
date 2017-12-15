@@ -57,8 +57,6 @@ TestCafe Live watches files that you pass as the `src` argument and files that a
 
 When the tests are done, browsers stay on the last opened page so you can work with it and explore it by using the browser's developer tools.
 
-See the [VIDEO]().
-
 ### Commands
 
 - ctrl+s - stop current run;
