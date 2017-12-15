@@ -152,7 +152,7 @@ fixture `Check logged user`
     });
     
 test('My test with logged user', async t => {
-    // perform any action here as a logger user
+    // perform any action here as a logged user
 });
 ```
 
