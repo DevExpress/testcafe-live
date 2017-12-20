@@ -59,8 +59,8 @@ When the tests are done, browsers stay on the last opened page so you can work w
 
 ### Commands
 
-- ctrl+s - stop current run;
-- ctrl+r - restart current run;
+- ctrl+s - stop current test run;
+- ctrl+r - restart current test run;
 - ctrl+w - turn off/on files watching;
 - ctrl+c - close opened browsers and terminate the process.
 
