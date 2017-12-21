@@ -1,6 +1,6 @@
 {
   "name": "testcafe-live",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A watcher utility for TestCafe. Watches for changes in test files and automatically runs tests when these changes occur.",
   "main": "lib/index.js",
   "bin": {
