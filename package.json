@@ -1,6 +1,6 @@
 {
   "name": "testcafe-live",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A watcher utility for TestCafe. Watches for changes in test files and automatically runs tests when these changes occur.",
   "main": "lib/index.js",
   "bin": {
@@ -25,6 +25,7 @@
   "dependencies": {
     "ansi-escapes": "^3.0.0",
     "async-exit-hook": "^2.0.1",
+    "graphlib": "^2.1.5",
     "keypress": "^0.2.1",
     "log-update-async-hook": "^2.0.2",
     "wrap-ansi": "^3.0.1"
