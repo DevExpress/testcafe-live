@@ -7,6 +7,8 @@ See instant feedback when working on tests.
 TestCafe Live provides a service that keeps the TestCafe process and browsers opened the whole time you are
 working on tests. Changes you make in code immediately restart the tests. That is, TestCafe Live allows you to see test results instantly.
 
+![TestCafe Live Demo](https://raw.githubusercontent.com/DevExpress/testcafe-live/master/media/testcafe-live-twitter.gif)
+
 ## Install
 
 TestCafe Live is a CLI tool. To start using it, you need to install both `testcafe` and `testcafe-live`:
