@@ -9,6 +9,8 @@ working on tests. Changes you make in code immediately restart the tests. That i
 
 ![TestCafe Live Demo](https://raw.githubusercontent.com/DevExpress/testcafe-live/master/media/testcafe-live-twitter.gif)
 
+Watch the full review on [YouTube](https://www.youtube.com/watch?v=RWQtB6Xv01Q).
+
 ## Install
 
 TestCafe Live is a CLI tool. To start using it, you need to install both `testcafe` and `testcafe-live`:
