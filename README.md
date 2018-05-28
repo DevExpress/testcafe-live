@@ -105,7 +105,7 @@ testcafe-live chrome tests/test.js
 You can also pass a path to a directory where your files with tests are stored.
 
 ```sh
-testcafe chrome tests/
+testcafe-live chrome tests/
 ```
 
 TestCafe will watch all files in this directory and all files that are required from there and restart all tests once one of them is changed.
