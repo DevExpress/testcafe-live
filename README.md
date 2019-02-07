@@ -1,5 +1,9 @@
 # TestCafe Live
 
+> This module is now **deprecated**.
+>
+> In TestCafe v1.0.0, we have integrated features from the `testcafe-live` module into the main TestCafe code. We have introduced the live mode, which provides experience similar to `testcafe-live`. See [Live Mode](https://devexpress.github.io/testcafe/documentation/using-testcafe/common-concepts/live-mode.html) for more information.
+
 See instant feedback when working on tests.
 
 ## What is it?
